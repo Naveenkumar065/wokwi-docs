@@ -81,6 +81,7 @@ The following microcontrollers are currently supported:
 | [Bipolar Stepper Motor](../parts/wokwi-stepper-motor)   | A bipolar Stepper Motor                                                                          |
 | [A4988](../parts/wokwi-a4988)                           | A4988 Stepper Motor Driver                                                                       |
 | [Biaxial Stepper Motor](../parts/wokwi-biaxial-stepper) | A concentric biaxial stepper motor, containing two stepper motors packaged in a single enclosure |
+| .[DC motot]                                             | A Normal rotary motor                                                                            |
 
 ## Communications
 
